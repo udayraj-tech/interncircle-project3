@@ -12,5 +12,5 @@ A lightweight command-line expense management application built with Python stan
 1. Ensure Python 3.10 or newer is installed.
 2. Clone this repository:
    ```bash
-   git clone [https://github.com/udayraj-tech/interncircle-expense-tracker.git](https://github.com/udayraj-tech/interncircle-expense-tracker.git)
-   cd interncircle-expense-tracker
+   git clone [https://github.com/udayraj-tech/interncircle-project3.git](https://github.com/udayraj-tech/interncircle-project3.git)
+   
